@@ -20,7 +20,7 @@
    }
    #navbar ul li a {
     text-decoration: none;
-    display: block;
+    display: flex;
    padding: 21px 17px;
    }
    .primary_center {
