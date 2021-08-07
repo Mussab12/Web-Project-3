@@ -1,5 +1,5 @@
 @media screen and (max-width:790px) {
-/*    nav ul  {
+ nav ul  {
        display: flex;
        
        align-items: center;
@@ -30,9 +30,9 @@ font-size: 12px;
    }
    h1 {
        font-size: 2.6rem;
-   } */
-   body {
+   } 
+/*    body {
       background-color:blue;
    
-}
+} */
 }
