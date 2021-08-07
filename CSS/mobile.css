@@ -13,15 +13,16 @@
        align-items: center;
    }
    #home {
-       height:687px;
+      height: 471px;
        display: flex;
        align-items: center;
        justify-content: center;
    }
    #navbar ul li a {
     text-decoration: none;
-    display: flex;
-   padding: 21px 17px;
+display: flex;
+padding: 7px 4px;
+font-size: 12px;
    }
    .primary_center {
        text-align: center;
